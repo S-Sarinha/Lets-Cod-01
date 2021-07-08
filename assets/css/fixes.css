@@ -1,0 +1,9 @@
+
+.v-card__text, .v-card__title {
+  word-break: normal !important;
+}
+
+.v-card__text .title, .v-card__title .title {
+  line-height: 1.3 !important;
+}
+
